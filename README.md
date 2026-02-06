@@ -2,15 +2,6 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emenson.germano@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/5585981544626) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emensonlima01/) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/emensonlima01)
 
-# Estatisticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emensonlima01&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emensonlima01&layout=compact)
-
-# Contador de visitas
-
-![Visitas](https://komarev.com/ghpvc/?username=emensonlima01&color=blue)
-
 # Tecnologias
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
